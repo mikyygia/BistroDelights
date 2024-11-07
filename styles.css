@@ -1,0 +1,81 @@
+#meat {
+    background-color: #F5E1C8;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 16px;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 40px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sub-head {
+    text-align: center;
+}
+
+.sub-head h2 {
+    font-size: 26px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.sub-app {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-title{
+    font-size: 20px;
+}
+
+.menu-price {
+    font-size: 16px;
+}
+
+.description {
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+}
+
+.footer {
+    text-align: center;
+}
+
+body {
+    background-color: #8cb288;
+    padding: 0;
+    margin: 0;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    background-color: #430817;
+    width: 50%;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
